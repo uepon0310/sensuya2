@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 5b010a7da3e1b9640876e8fb81227b15
+timeCreated: 1538169306
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameScreen1: {fileID: 1697888621740876, guid: 41b144429e84f5c4a94728e6ca33e8c1,
+      type: 2}
+  - GameScreen2: {fileID: 1938724679395240, guid: ac3d0003a36013840b3e0f7ca5ddbb7a,
+      type: 2}
+  - GameScreen3: {fileID: 1001734659760372, guid: d41d756b4945ab7439ca5d64bc14f06c,
+      type: 2}
+  - GameScreen4: {fileID: 1197959032468058, guid: 2d4ae10e7d65d33489f0a87a21079c8c,
+      type: 2}
+  - GameScreen5: {fileID: 1472932413365624, guid: 75d24da2fda7eef468fefcadea76f460,
+      type: 2}
+  - GameScreen6: {fileID: 1685623345666274, guid: 4484c18999edd6344ac1ed1e3f75a991,
+      type: 2}
+  - GameScreen7: {fileID: 1512198674634430, guid: e223ed47c197f98419b3a52399056770,
+      type: 2}
+  - GameScreen8: {fileID: 1359472256406196, guid: 09e68615a3d4c174e89c4d21ec427dda,
+      type: 2}
+  - GameScreen9: {fileID: 1587671718581104, guid: 2c4e67ac2e758fc46820567cee8f6791,
+      type: 2}
+  - GameScreen10: {fileID: 1726374614201886, guid: de1826f1529361344a985d71ccb837f8,
+      type: 2}
+  - target1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
